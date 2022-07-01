@@ -11,7 +11,7 @@
       "healtmonster": 100,
       "armormonster": 0,
       "lastclaim": 0,
-      "registered": false,
+      "registered": true,
       "name": "I Don't Know",
       "age": -1,
       "regTime": -1,
